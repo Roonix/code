@@ -1,3 +1,6 @@
+# a little python program that will demonstrate sprites and sounds
+
+
 import pygame, sys, time, random
 from pygame.locals import *
 
